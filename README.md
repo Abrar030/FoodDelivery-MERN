@@ -71,10 +71,8 @@ Experience the application live: [Live Demo Link](#)
 ![image](https://github.com/user-attachments/assets/91ac8e53-27f4-44dd-a409-8a0f36411aa4)
 
 ### Food Listing
-![Food Listing](https://via.placeholder.com/800x400)
+![image](https://github.com/user-attachments/assets/811e3e9f-76de-4e70-9bea-649e46c39ae4)
 
-### Cart
-![Cart](https://via.placeholder.com/800x400)
 
 ---
 
