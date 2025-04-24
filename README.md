@@ -68,7 +68,7 @@ Experience the application live: [Live Demo Link](#)
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](https://via.placeholder.com/800x400)
+![image](https://github.com/user-attachments/assets/91ac8e53-27f4-44dd-a409-8a0f36411aa4)
 
 ### Food Listing
 ![Food Listing](https://via.placeholder.com/800x400)
